@@ -1,0 +1,22 @@
+# Arquivos compilados Java
+*.class
+
+# Arquivos de dados gerados pelo programa
+usuarios.txt
+usuarios.bin
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp 
